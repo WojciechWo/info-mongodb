@@ -6,7 +6,8 @@ import lombok.Data;
 @Data
 @Builder
 public class Comment {
+
+    private String id;
     private String text;
-    private String text2;
 
 }

@@ -1,4 +1,4 @@
-package com.WojciechWo.infomongodb;
+package com.WojciechWo.infomongodb.config;
 
 import com.WojciechWo.infomongodb.collection.Comment;
 import com.WojciechWo.infomongodb.collection.Info;
